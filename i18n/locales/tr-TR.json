@@ -1195,12 +1195,12 @@
     },
     "community": {
       "title": "Topluluk",
-      "description": "Topluluğumuza katılın",
+      "description": "{count} hesap ile topluluğumuza katılın",
       "loading": "Yükleniyor...",
       "error": "Hata",
       "empty": "Boş",
-      "view_profile": "Profili görüntüle",
-      "new_accounts": "Yeni hesaplar"
+      "view_profile": "{handle} profilini görüntüle",
+      "new_accounts": "{count} yeni hesap"
     }
   },
   "privacy_policy": {
