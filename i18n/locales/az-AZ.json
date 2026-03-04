@@ -1149,21 +1149,21 @@
     "server": {
       "title": "Server",
       "location_label": "Yer",
-      "location_value": "Yer dəyəri",
+      "location_value": "Nürnberq, Almaniya",
       "infrastructure_label": "İnfrastruktur",
-      "infrastructure_value": "İnfrastruktur dəyəri",
+      "infrastructure_value": "Hetzner üzərində yerləşdirilir",
       "privacy_label": "Gizlilik",
-      "privacy_value": "Gizlilik dəyəri",
+      "privacy_value": "Sərt AB Məlumat Mühafizəsi qanunlarına tabedir",
       "learn_more": "Ətraflı öyrən"
     },
     "community": {
       "title": "İcma",
-      "description": "İcmasamıza qoşulun",
+      "description": "{count} hesab ilə icmasamıza qoşulun",
       "loading": "Yüklənir...",
       "error": "Xəta",
       "empty": "Boş",
-      "view_profile": "Profilə bax",
-      "new_accounts": "Yeni hesablar"
+      "view_profile": "{handle} profilinə bax",
+      "new_accounts": "{count} yeni hesab"
     }
   },
   "privacy_policy": {
