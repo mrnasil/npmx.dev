@@ -1084,6 +1084,34 @@
     "close_files_panel": "Fayllar panelini bağla",
     "filter_files_label": "Faylları dəyişiklik növünə görə süz"
   },
+  "pds": {
+    "title": "PDS",
+    "meta_description": "npmx PDS - Şəxsi Məlumat Serveri",
+    "join": {
+      "title": "Qoşul",
+      "description": "npmx PDS-ə qoşulun",
+      "migrate": "Köçür"
+    },
+    "server": {
+      "title": "Server",
+      "location_label": "Yer",
+      "location_value": "Nürnberq, Almaniya",
+      "infrastructure_label": "İnfrastruktur",
+      "infrastructure_value": "Hetzner üzərində yerləşdirilir",
+      "privacy_label": "Gizlilik",
+      "privacy_value": "Sərt AB Məlumat Mühafizəsi qanunlarına tabedir",
+      "learn_more": "Ətraflı öyrən"
+    },
+    "community": {
+      "title": "İcma",
+      "description": "{count} hesab ilə icmasamıza qoşulun",
+      "loading": "Yüklənir...",
+      "error": "Xəta",
+      "empty": "Boş",
+      "view_profile": "{handle} profilinə bax",
+      "new_accounts": "{count} yeni hesab"
+    }
+  },
   "privacy_policy": {
     "title": "gizlilik siyasəti",
     "last_updated": "Son yenilənmə: {date}",
